@@ -14,3 +14,7 @@
 ![Version 0](https://media.discordapp.net/attachments/636265825812348946/956584448621686814/unknown.png?width=623&height=676)
 
 ## Comment Installer
+
+  - Version conseillée (recommended): [v 0.2](https://github.com/QwQ-Legacy/QwQ_Public/blob/main/Demineur/v-0/howInstall.md)
+
+  - Pour installer la version 0.2: [v 0.2](https://github.com/QwQ-Legacy/QwQ_Public/blob/main/Demineur/v-0/howInstall.md)
