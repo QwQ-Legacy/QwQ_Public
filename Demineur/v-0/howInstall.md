@@ -6,7 +6,8 @@
 
 ## Avec l'installateur (install wizard) <a name="inst" />
 
-1. Télécharger l'installateur ici: [installateur](https://github.com/QwQ-Legacy/QwQ_Public/blob/main/Demineur/v-0/installer/QwQDemineur%20installer%20v0%20setup%20file.exe)
+1. Télécharger l'installateur ici: [installateur](https://github.com/QwQ-Legacy/QwQ_Public/blob/main/Demineur/v-0/installer/QwQDemineur%20installer%20v0%20setup%20file.exe) <br>
+![download](https://media.discordapp.net/attachments/636265825812348946/956592282814009495/unknown.png) <br>
 2. Exécuter l'installateur et suivre les consignes
 
 ## Avec La Runtime Image <a name="runtime" />
