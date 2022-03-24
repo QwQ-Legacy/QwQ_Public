@@ -6,8 +6,11 @@
   - Patch Note 0.2:
     - Correction de bugs
     - Timer et FLag Count
+- À venir dans la prochaine version:
+  - Sélection de difficulté
+  - Correction de l'encodage
   
 ![Version 0](https://media.discordapp.net/attachments/636265825812348946/956584238860341319/unknown.png?width=623&height=676)
 ![Version 0](https://media.discordapp.net/attachments/636265825812348946/956584448621686814/unknown.png?width=623&height=676)
 
-###
+## Comment Installer
